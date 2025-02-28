@@ -1,3 +1,4 @@
 # requiremene.txt
 snowflake-snowpark-python
 Streamlit
+requests
