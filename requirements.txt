@@ -2,4 +2,4 @@
 snowflake-snowpark-python
 Streamlit
 requests
-to_pandas
+to_pandas()
